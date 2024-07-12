@@ -1,0 +1,5 @@
+En este archivo ire actualizando la utilizadad de los distintos scripts que fui desarrollando.
+
+Detalle de las acciones que hacen los ditintos scripts.
+
+-- respaldo.py --- este script hace un respaldo de todas las capas vectoriales, en una ubicación que le indiques.
